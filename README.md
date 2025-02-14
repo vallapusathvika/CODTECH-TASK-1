@@ -1,10 +1,16 @@
 # CODTECH-TASK-1
 COMPANY:CODTECH IT SOLUTIONS
+
 NAME:VALLAPU SATHVIKA
+
 INTERN ID:CT08RGJ
+
 DOMAIN:PYTHON PROGRAMMING
+
 DURATION:4 WEEKS
+
 MENTOR:NEELA SANTOSH
+
   **DESCRIPTION OF THE CODE***
 
 This code is executed in a **Jupyter Notebook** and demonstrates how to load, preprocess, and visualize weather data using **Pandas**, **Matplotlib**, and **Seaborn**. The main objective of the code is to analyze and present weather parameters, including temperature, humidity, wind speed, and precipitation, over time through various plots.
