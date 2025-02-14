@@ -44,5 +44,6 @@ This code is executed in a **Jupyter Notebook** and demonstrates how to load, pr
  **Conclusion**
 
 This code effectively demonstrates how to use **Pandas** for data preprocessing and **Matplotlib** for visualization. By creating time-series plots, it allows the user to analyze trends in various weather parameters like temperature, humidity, wind speed, and precipitation over time. The use of **Jupyter Notebook** enables interactive execution, making it easy to view and modify the code step-by-step. The preprocessing steps ensure that only valid and complete data is used for analysis, providing accurate visualizations. Although **Seaborn** is not utilized here, it could be integrated to enhance the appearance of the plots or provide more advanced statistical visualizations.
+***OUTPUT***: ![Image](https://github.com/user-attachments/assets/09f4b32e-8a11-47f2-87dd-d0949e5da114)
 
 
