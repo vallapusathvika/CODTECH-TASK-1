@@ -9,7 +9,6 @@ MENTOR:NEELA SANTOSH
 
 This code is executed in a **Jupyter Notebook** and demonstrates how to load, preprocess, and visualize weather data using **Pandas**, **Matplotlib**, and **Seaborn**. The main objective of the code is to analyze and present weather parameters, including temperature, humidity, wind speed, and precipitation, over time through various plots.
 
----
 
  **Libraries and Tools Used**
 
@@ -21,8 +20,6 @@ This code is executed in a **Jupyter Notebook** and demonstrates how to load, pr
 
 3. **Seaborn**:
    - **Seaborn** is built on top of **Matplotlib** and simplifies the process of creating attractive, informative statistical visualizations. While **Seaborn** is imported in the code, it is not directly used here. However, it could be easily integrated into the plotting process to enhance the style and appearance of the visualizations.
-
----
 
  **Step-by-Step Breakdown of the Code**
 
@@ -44,8 +41,8 @@ This code is executed in a **Jupyter Notebook** and demonstrates how to load, pr
    - After plotting the individual subplots, the `plt.tight_layout()` function is called to automatically adjust the spacing between the subplots to prevent overlap and ensure that each plot is clearly visible. This function improves the layout and presentation of the figure.
    - Finally, `plt.show()` is used to display the complete figure with all four subplots.
 
----
-
  **Conclusion**
 
 This code effectively demonstrates how to use **Pandas** for data preprocessing and **Matplotlib** for visualization. By creating time-series plots, it allows the user to analyze trends in various weather parameters like temperature, humidity, wind speed, and precipitation over time. The use of **Jupyter Notebook** enables interactive execution, making it easy to view and modify the code step-by-step. The preprocessing steps ensure that only valid and complete data is used for analysis, providing accurate visualizations. Although **Seaborn** is not utilized here, it could be integrated to enhance the appearance of the plots or provide more advanced statistical visualizations.
+
+
